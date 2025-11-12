@@ -1,16 +1,29 @@
-## Hi there 👋, I'm Bastien
+# Hi there 👋, I'm Bastien Lalande
 
-<!--
-**BastienLalande/BastienLalande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Second-year Computer Engineering Student at CESI**  
+🔍 **Seeking a 12-week internship starting April 7, 2026**  
+💻 Passionate about **software development**, **embedded systems**, and **digital innovation**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- **Languages**: Python, C/C++, Flutter, Dart, SQL  
+- **Tools**: Git, GitHub, Excel, various IDEs  
+- **Concepts**: Object-Oriented Programming, Embedded Systems, Electronics, Databases, Networking, Web Development
+
+---
+
+## 📂 Projects
+- **CSV Import Tool**: Developed for a startup ([Semana](https://www.semana.io/fr/)) to integrate data into internal systems  
+- **Application for Visually Impaired**: A Flutter-based mobile app designed to assist visually impaired people in their daily life  
+- **Academic Projects**: [Embedded Systems](https://github.com/BastienLalande/Projet_WWW_sys_emb), [Object-Oriented Programming](https://github.com/BastienLalande/POO-CESI)
+
+---
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/bastien-lalande-82926a370/)
+
+---
+
+### 🚀 Goals
+Apply my technical skills in a dynamic environment and contribute to innovative projects.
