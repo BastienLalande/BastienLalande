@@ -15,7 +15,7 @@
 
 ## 📂 Projects
 - **CSV Import Tool**: Developed for a startup ([Semana](https://www.semana.io/fr/)) to integrate data into internal systems  
-- **Application for Visually Impaired**: A Flutter-based mobile app designed to assist visually impaired people in their daily life  
+- **Application for Visually Impaired**: A Flutter-based mobile app designed to assist visually impaired people in their daily life. the application is named [HandiView](https://github.com/BastienLalande/handiview)  
 - **Academic Projects**: [Embedded Systems](https://github.com/BastienLalande/Projet_WWW_sys_emb), [Object-Oriented Programming](https://github.com/BastienLalande/POO-CESI)
 
 ---
