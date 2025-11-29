@@ -1,13 +1,12 @@
 # Hi there 👋, I'm Bastien Lalande
 
 🎓 **Second-year Computer Engineering Student at CESI**  
-🔍 **Seeking a 12-week internship starting April 7, 2026**  
-💻 Passionate about **software development**, **embedded systems**, and **digital innovation**.
+🔍 **Seeking a 12-week internship starting April 7, 2026**.
 
 
 ## 🛠️ Technical Skills
-- **Languages**: Python, C/C++, Flutter, Dart, SQL  
-- **Tools**: Git, GitHub, Excel, MySQL, various IDEs
+- **Languages**: Python, C/C++, Dart, SQL  
+- **Tools**: Git, GitHub, Excel, MySQL, Flutter, various IDEs
 - **Concepts**: Object-Oriented Programming, Embedded Systems, Electronics, Databases, Networking, Web Development
 
 
