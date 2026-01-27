@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Bastien Lalande
 
 🎓 **Second-year Computer Engineering Student at CESI**  
-🔍 **Seeking a 12-week internship starting April 7, 2026**.
+🔍 **Looking for a work-study apprenticeship starting in September 2026**.
 
 
 ## 🛠️ Technical Skills
 - **Languages**: Python, C/C++, Dart, SQL  
-- **Tools**: Git, GitHub, Excel, MySQL, Flutter, various IDEs
+- **Tools**: Git, GitHub, Excel, MySQL, Flutter, Cisco Packet Tracer, various IDEs
 - **Concepts**: Object-Oriented Programming, Embedded Systems, Electronics, Databases, Networking, Web Development
 
 
@@ -18,6 +18,7 @@
   - [Object-Oriented Programming](https://github.com/BastienLalande/POO-CESI)
   - [Conway life game](https://github.com/OanHamon/Conway_Life_POO)
   - [Database Design and Modeling](https://github.com/BastienLalande/BDD_Modelisation)
+  - [Networking](https://github.com/BastienLalande/Networking-Funkytown)
 
 
 ## 🌐 Connect with Me
