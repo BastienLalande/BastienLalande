@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Bastien Lalande
 
 🎓 **Second-year Computer Engineering Student at CESI**  
-🔍 **Looking for a work-study apprenticeship starting in September 2026**.
+🔍 **Looking for a work-study apprenticeship starting in October 2026**.
 
 
 ## 🛠️ Technical Skills
@@ -19,6 +19,8 @@
   - [Conway life game](https://github.com/OanHamon/Conway_Life_POO)
   - [Database Design and Modeling](https://github.com/BastienLalande/BDD_Modelisation)
   - [Networking](https://github.com/BastienLalande/Networking-Funkytown)
+- **Personals Projects**:
+  -[RV32I Verilog processor](https://github.com/BastienLalande/RV32IProcVerilog)
 
 
 ## 🌐 Connect with Me
