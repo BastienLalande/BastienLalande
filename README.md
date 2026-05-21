@@ -1,17 +1,15 @@
 # Bastien Lalande 👋
 
 🎓 **Second-Year Computer Engineering Student at CESI**  
-🔍 **Looking for a work-study apprenticeship starting October 2026**
+🔍 **Seeking a work-study apprenticeship starting October 2026**
 
----
 
 ## 🛠️ Technical Skills
 
-**Languages**: Python, C/C++, Dart, SQL  
-**Tools**: Git, GitHub, Excel, MySQL, Flutter, Cisco Packet Tracer, IDEs (VS Code, CLion, Android Studio, etc.)  
-**Concepts**: Object-Oriented Programming, Embedded Systems, Electronics, Databases, Networking, Web Development
+**Languages**: Python, C/C++, Dart, SQL, Verilog  
+**Tools**: Git, GitHub, Excel, MySQL, Flutter, Cisco Packet Tracer, IDEs (VS Code, CLion, Android Studio)  
+**Concepts**: Object-Oriented Programming, Embedded Systems, Electronics, Databases, Networking, Web Development, RTL Synthesis
 
----
 
 ## 📂 Projects
 
@@ -32,14 +30,12 @@
 - **[Networking - Funkytown](https://github.com/BastienLalande/Networking-Funkytown)**
 - **[RV32I Verilog Processor](https://github.com/BastienLalande/RV32IProcVerilog)**
 
----
 
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/bastien-lalande-82926a370/)
-- [Email](mailto:bastien.lalande@viacesi.fr) *(optional: add your email if you want to be contacted directly)*
+- [Email](mailto:bastien.lalande@viacesi.fr)
 
----
 
 ## 🚀 Goals
 
