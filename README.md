@@ -7,7 +7,7 @@
 ## 🛠️ Technical Skills
 
 **Languages**: Python, C/C++, Dart, SQL, Verilog  
-**Tools**: Git, GitHub, Excel, MySQL, Flutter, Cisco Packet Tracer, various IDEs
+**Tools**: Git, GitHub, Excel, MySQL, Flutter, Cisco Packet Tracer, various IDEs  
 **Concepts**: Object-Oriented Programming, Embedded Systems, Electronics, Databases, Networking, Web Development, RTL Synthesis
 
 
@@ -15,7 +15,8 @@
 
 ### 💼 **Professional Projects**
 
-- **CSV Import Tool**: Developed for the startup [Semana](https://www.semana.io/fr/) to integrate data into their internal systems.
+- **CSV Import Tool**: Developed for the startup [Semana](https://www.semana.io/en/) to integrate data into their internal systems.
+- **Network Verification Tool**: Developed for the company [Chantier de l'atlantique](https://chantiers-atlantique.com/) to diagnose network flows and maintain production operations.
 
 ### 🌍 **Personal & Open-Source Projects**
 
