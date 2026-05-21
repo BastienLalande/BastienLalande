@@ -7,7 +7,7 @@
 ## 🛠️ Technical Skills
 
 **Languages**: Python, C/C++, Dart, SQL, Verilog  
-**Tools**: Git, GitHub, Excel, MySQL, Flutter, Cisco Packet Tracer, IDEs (VS Code, CLion, Android Studio)  
+**Tools**: Git, GitHub, Excel, MySQL, Flutter, Cisco Packet Tracer, various IDEs
 **Concepts**: Object-Oriented Programming, Embedded Systems, Electronics, Databases, Networking, Web Development, RTL Synthesis
 
 
