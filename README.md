@@ -20,6 +20,7 @@
 ### 🌍 **Personal & Open-Source Projects**
 
 - **[HandiView](https://github.com/BastienLalande/handiview)**: A Flutter-based mobile app designed to assist visually impaired individuals in their daily lives.
+- **[RV32I Verilog Processor](https://github.com/BastienLalande/RV32IProcVerilog)**: A RTL Synthesis of a RISC-V (ISA RV32I) processor written in Verilog.
 
 ### 🎓 **Academic Projects**
 
@@ -28,7 +29,6 @@
 - **[Conway's Game of Life](https://github.com/OanHamon/Conway_Life_POO)**
 - **[Database Design and Modeling](https://github.com/BastienLalande/BDD_Modelisation)**
 - **[Networking - Funkytown](https://github.com/BastienLalande/Networking-Funkytown)**
-- **[RV32I Verilog Processor](https://github.com/BastienLalande/RV32IProcVerilog)**
 
 
 ## 🌐 Connect with Me
